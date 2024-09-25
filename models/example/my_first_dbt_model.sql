@@ -11,7 +11,7 @@
 
 with source_data as (
 
-    select id, name
+    select id, name from khushi_sim17
 
 )
 
